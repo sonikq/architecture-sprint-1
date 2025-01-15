@@ -80,3 +80,4 @@ Webpack Module Federation позволяет легко интегрироват
 ---
 
 # Задание 2
+Ссылка на диаграмму: https://drive.google.com/file/d/1UGVBsH1HYO3MskghCT9O41w5sFV0ir1T/view?usp=sharing
